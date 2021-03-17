@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sunny-generator/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/sunny-generator/static/js/main.4f77f85a.chunk.js",
+    "main.js.map": "/sunny-generator/static/js/main.4f77f85a.chunk.js.map",
+    "runtime-main.js": "/sunny-generator/static/js/runtime-main.c92fdd1a.js",
+    "runtime-main.js.map": "/sunny-generator/static/js/runtime-main.c92fdd1a.js.map",
+    "static/js/2.0a8e5954.chunk.js": "/sunny-generator/static/js/2.0a8e5954.chunk.js",
+    "static/js/2.0a8e5954.chunk.js.map": "/sunny-generator/static/js/2.0a8e5954.chunk.js.map",
+    "static/js/3.31333e54.chunk.js": "/sunny-generator/static/js/3.31333e54.chunk.js",
+    "static/js/3.31333e54.chunk.js.map": "/sunny-generator/static/js/3.31333e54.chunk.js.map",
+    "index.html": "/sunny-generator/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/sunny-generator/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.0a8e5954.chunk.js.LICENSE.txt": "/sunny-generator/static/js/2.0a8e5954.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sunny-generator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c92fdd1a.js",
+    "static/js/2.0a8e5954.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.4f77f85a.chunk.js"
+  ]
+}
